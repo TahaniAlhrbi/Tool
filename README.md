@@ -14,7 +14,7 @@
 ## طريقة الاستخدام
 1. استنسخ المشروع:
    ```bash
-   git clone https://github.com/TahaniAlhrbi/Tool.git```
+   git clone https://github.com/TahaniAlhrbi/Tool.git
    ⸻
 
  ## الفريق
